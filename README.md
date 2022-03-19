@@ -1,1 +1,1 @@
-# projrct-02
+# project-02
